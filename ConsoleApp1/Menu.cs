@@ -36,5 +36,17 @@ namespace RestaurantMenu
         {
             menuList.Add(item);
         }
+
+        public void GetLastUpdated()
+        {
+            Console.WriteLine($"Menu last updated: {LastUpdated}");
+        }
+
+        public void PrintItem(MenuItems m)
+        {
+            Console.Write("Menu Item : " + m.Description + "\nPrice : " + m.Price.ToString("c"));
+            Console.Write("\nCategory: " + m.Category);
+            Console.Write("\nDate Added to Menu: " + m.DateAdded.ToString("MMMM dd, yyyy") + "\n");
+        }
     }
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vboaten\\git_exercises\\csharp-pracitce\\RestaurantMenu\\ConsoleApp1\\RestaurantMenu.csproj": {}
+    "C:\\Users\\galax\\Source\\Repos\\SarahLazuli\\RestaurantMenu\\ConsoleApp1\\RestaurantMenu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vboaten\\git_exercises\\csharp-pracitce\\RestaurantMenu\\ConsoleApp1\\RestaurantMenu.csproj": {
+    "C:\\Users\\galax\\Source\\Repos\\SarahLazuli\\RestaurantMenu\\ConsoleApp1\\RestaurantMenu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vboaten\\git_exercises\\csharp-pracitce\\RestaurantMenu\\ConsoleApp1\\RestaurantMenu.csproj",
+        "projectUniqueName": "C:\\Users\\galax\\Source\\Repos\\SarahLazuli\\RestaurantMenu\\ConsoleApp1\\RestaurantMenu.csproj",
         "projectName": "RestaurantMenu",
-        "projectPath": "C:\\Users\\vboaten\\git_exercises\\csharp-pracitce\\RestaurantMenu\\ConsoleApp1\\RestaurantMenu.csproj",
-        "packagesPath": "C:\\Users\\vboaten\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vboaten\\git_exercises\\csharp-pracitce\\RestaurantMenu\\ConsoleApp1\\obj\\",
+        "projectPath": "C:\\Users\\galax\\Source\\Repos\\SarahLazuli\\RestaurantMenu\\ConsoleApp1\\RestaurantMenu.csproj",
+        "packagesPath": "C:\\Users\\galax\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\galax\\Source\\Repos\\SarahLazuli\\RestaurantMenu\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vboaten\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\galax\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

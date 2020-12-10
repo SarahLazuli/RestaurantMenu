@@ -49,9 +49,18 @@ namespace RestaurantMenu
 
         }
 
-        
+        public bool GetIsNew()
+        {
+            return DateAdded == DateTime.Today;
+        }
 
- 
-
+        public override bool Equals(object obj)
+        {
+            return obj is MenuItems items &&
+                   _price == items._price &&
+                   Price == items.Price &&
+                   Description == items.Description &&
+                   Category == items.Category;
+        }
     }
 }
